@@ -20,10 +20,17 @@
 
 		<Folder>
 			<name>VENETO</name>
+			<Style id="examplePolyStyle">
+    <PolyStyle>
+      <color>ff0000cc</color>
+      <colorMode>random</colorMode>
+    </PolyStyle>
+  </Style>
 			<Placemark>
 				<name>VENETO</name>
+				
 				<Snippet maxLines="2"></Snippet>
-				<styleUrl>#ABRUZZO_copy0</styleUrl>
+				<styleUrl>#examplePolyStyle</styleUrl>
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
