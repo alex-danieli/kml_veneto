@@ -5,8 +5,8 @@
 	<Snippet maxLines="2"></Snippet>
 	<description>Exported from Veneto on 19/11/2008</description>
 	<Style id="FEATURES_copy2">
-		<BalloonStyle>
-		</BalloonStyle>
+		
+		
 		<LineStyle>
 			<color>ff0000ff</color>
 		</LineStyle>
@@ -19,15 +19,15 @@
 		<IconStyle>
 			<color>00000000</color>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://www.google.com/mapfiles/arrowtransparent.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
 		</LabelStyle>
 	</Style>
 	<Style id="FEATURES_copy1">
-		<BalloonStyle>
-		</BalloonStyle>
+		
+		
 		<LineStyle>
 			<color>ff0000ff</color>
 		</LineStyle>
@@ -47,8 +47,8 @@
 		</Pair>
 	</StyleMap>
 	<Style id="FEATURES">
-		<BalloonStyle>
-		</BalloonStyle>
+		
+		
 		<LineStyle>
 			<color>ff6e6e6e</color>
 			<width>0.4</width>
@@ -60,6 +60,7 @@
 	<Folder>
 		<name>Features</name>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ABANO TERME</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -73,6 +74,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ADRIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -86,6 +88,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AFFI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -99,6 +102,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -112,6 +116,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGORDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -125,6 +130,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGUGLIARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -138,6 +144,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALANO DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -151,6 +158,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBAREDO D&apos;ADIGE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -164,6 +172,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBETTONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -177,6 +186,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBIGNASEGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -190,6 +200,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALLEGHE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -203,6 +214,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALONTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -216,6 +228,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTAVILLA VICENTINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -229,6 +242,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTISSIMO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -242,6 +256,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTIVOLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -255,6 +270,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANGIARI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -268,6 +284,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANGUILLARA VENETA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -281,6 +298,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANNONE VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -294,6 +312,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCADE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -307,6 +326,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCOLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -320,6 +340,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCUGNANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -333,6 +354,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARIANO NEL POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -346,6 +368,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARQUA&apos; PETRARCA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -359,6 +382,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARQUA&apos; POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -372,6 +396,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARRE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -385,6 +410,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARSIE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -398,6 +424,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARSIERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -411,6 +438,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARZERGRANDE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -424,6 +452,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARZIGNANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -437,6 +466,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASIAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -450,6 +480,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASIGLIANO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -463,6 +494,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -476,6 +508,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AURONZO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -489,6 +522,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BADIA CALAVENA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -502,6 +536,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BADIA POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -515,6 +550,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAGNOLI DI SOPRA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -528,6 +564,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAGNOLO DI PO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -541,6 +578,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -554,6 +592,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARBARANO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -567,6 +606,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARBONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -580,6 +620,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARDOLINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -593,6 +634,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BASSANO DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -606,6 +648,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BATTAGLIA TERME</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -619,6 +662,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BELFIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -632,6 +676,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BELLUNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -645,6 +690,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BERGANTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -658,6 +704,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BEVILACQUA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -671,6 +718,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOARA PISANI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -684,6 +732,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOLZANO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -697,6 +746,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BONAVIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -710,6 +760,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORCA DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -723,6 +774,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORGORICCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -736,6 +788,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORSO DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -749,6 +802,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -762,6 +816,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSCHI SANT&apos;ANNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -775,6 +830,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSCO CHIESANUOVA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -788,6 +844,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOVOLENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -801,6 +858,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOVOLONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -814,6 +872,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BREDA DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -827,6 +886,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BREGANZE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -840,6 +900,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENDOLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -853,6 +914,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENTINO BELLUNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -866,6 +928,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENZONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -879,6 +942,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRESSANVIDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -892,6 +956,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BROGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -905,6 +970,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRUGINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -918,6 +984,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BUSSOLENGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -931,6 +998,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BUTTAPIETRA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -944,6 +1012,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CADONEGHE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -957,6 +1026,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAERANO DI SAN MARCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -970,6 +1040,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALALZO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -983,6 +1054,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALDIERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -996,6 +1068,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALDOGNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1009,6 +1082,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1022,6 +1096,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALTRANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1035,6 +1110,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALVENE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1048,6 +1124,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMISANO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1061,6 +1138,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPAGNA LUPIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1074,6 +1152,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPIGLIA DEI BERICI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1087,6 +1166,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPO SAN MARTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1100,6 +1180,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPODARSEGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1113,6 +1194,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPODORO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1126,6 +1208,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOLONGO MAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1139,6 +1222,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOLONGO SUL BRENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1152,6 +1236,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPONOGARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1165,6 +1250,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOSAMPIERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1178,6 +1264,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANALE D&apos;AGORDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1191,6 +1278,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1204,6 +1292,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1217,6 +1306,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANDIANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1230,6 +1320,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAORLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1243,6 +1334,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAORLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1256,6 +1348,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAPPELLA MAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1269,6 +1362,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAPRINO VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1282,6 +1376,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARBONERA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1295,6 +1390,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARCERI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1308,6 +1404,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARMIGNANO DI BRENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1321,6 +1418,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARRE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1334,6 +1432,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARTIGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1347,6 +1446,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARTURA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1360,6 +1460,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALE DI SCODOSIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1373,6 +1474,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALE SUL SILE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1386,6 +1488,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALEONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1399,6 +1502,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALSERUGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1412,6 +1516,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASIER</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1425,6 +1530,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASSOLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1438,6 +1544,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTAGNARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1451,6 +1558,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTEGNERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1464,6 +1572,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTEL D&apos;AZZANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1477,6 +1586,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELBALDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1490,6 +1600,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELCUCCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1503,6 +1614,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELFRANCO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1516,6 +1628,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELGOMBERTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1529,6 +1642,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELGUGLIELMO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1542,6 +1656,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELLO DI GODEGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1555,6 +1670,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELLO LAVAZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1568,6 +1684,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELMASSA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1581,6 +1698,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELNOVO BARIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1594,6 +1712,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELNUOVO DEL GARDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1607,6 +1726,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVAION VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1620,6 +1740,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVALLINO-TREPORTI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1633,6 +1754,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVARZERE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1646,6 +1768,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVASO DEL TOMBA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1659,6 +1782,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAZZANO DI TRAMIGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1672,6 +1796,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEGGIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1685,6 +1810,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CENCENIGHE AGORDINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1698,6 +1824,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CENESELLI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1711,6 +1838,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEREA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1724,6 +1852,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEREGNANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1737,6 +1866,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CERRO VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1750,6 +1880,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CERVARESE SANTA CROCE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1763,6 +1894,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CESIOMAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1776,6 +1908,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CESSALTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1789,6 +1922,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIAMPO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1802,6 +1936,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIARANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1815,6 +1950,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIES D&apos;ALPAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1828,6 +1964,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIOGGIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1841,6 +1978,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIUPPANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1854,6 +1992,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CIBIANA DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1867,6 +2006,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CIMADOLMO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1880,6 +2020,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CINTO CAOMAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1893,6 +2034,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CINTO EUGANEO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1906,6 +2048,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CISMON DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1919,6 +2062,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CISON DI VALMARINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1932,6 +2076,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CITTADELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1945,6 +2090,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CODEVIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1958,6 +2104,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CODOGNE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1971,6 +2118,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COGOLLO DEL CENGIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1984,6 +2132,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLLE SANTA LUCIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -1997,6 +2146,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLLE UMBERTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2010,6 +2160,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLOGNA VENETA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2023,6 +2174,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLOGNOLA AI COLLI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2036,6 +2188,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COMELICO SUPERIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2049,6 +2202,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2062,6 +2216,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCAMARISE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2075,6 +2230,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2088,6 +2244,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCORDIA SAGITTARIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2101,6 +2258,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONEGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2114,6 +2272,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONSELVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2127,6 +2286,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORBOLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2140,6 +2300,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORDIGNANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2153,6 +2314,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORNEDO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2166,6 +2328,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORNUDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2179,6 +2342,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORREZZOLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2192,6 +2356,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORTINA D&apos;AMPEZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2205,6 +2370,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTA DI ROVIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2218,6 +2384,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTABISSARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2231,6 +2398,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTERMANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2244,6 +2412,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CREAZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2257,6 +2426,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPADORO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2270,6 +2440,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPANO DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2283,6 +2454,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2296,6 +2468,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CROCETTA DEL MONTELLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2309,6 +2482,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CURTAROLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2322,6 +2496,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DANTA DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2335,6 +2510,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOLCE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2348,6 +2524,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2361,6 +2538,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOMEGGE DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2374,6 +2552,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DUE CARRARE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2387,6 +2566,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DUEVILLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2400,6 +2580,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ENEGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2413,6 +2594,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERACLEA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2426,6 +2608,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERBE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2439,6 +2622,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERBEZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2452,6 +2636,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ESTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2465,6 +2650,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FALCADE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2478,6 +2664,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARA VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2491,6 +2678,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARRA D&apos;ALPAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2504,6 +2692,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARRA DI SOLIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2517,6 +2706,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FELTRE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2530,6 +2720,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FERRARA DI MONTE BALDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2543,6 +2734,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FICAROLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2556,6 +2748,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FIESSO D&apos;ARTICO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2569,6 +2762,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FIESSO UMBERTIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2582,6 +2776,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOLLINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2595,6 +2790,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTANELLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2608,6 +2804,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTANIVA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2621,6 +2818,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2634,6 +2832,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONZASO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2647,6 +2846,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FORNO DI ZOLDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2660,6 +2860,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSALTA DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2673,6 +2874,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSALTA DI PORTOGRUARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2686,6 +2888,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSO&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2699,6 +2902,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2712,6 +2916,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FRASSINELLE POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2725,6 +2930,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FRATTA POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2738,6 +2944,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FREGONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2751,6 +2958,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FUMANE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2764,6 +2972,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAIARINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2777,6 +2986,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAIBA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2790,6 +3000,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALLIERA VENETA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2803,6 +3014,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALLIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2816,6 +3028,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALZIGNANO TERME</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2829,6 +3042,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAMBELLARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2842,6 +3056,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAMBUGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2855,6 +3070,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GARDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2868,6 +3084,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAVELLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2881,6 +3098,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2894,6 +3112,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAZZO VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2907,6 +3126,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GIACCIANO CON BARUCHELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2920,6 +3140,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GIAVERA DEL MONTELLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2933,6 +3154,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GODEGA DI SANT&apos;URBANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2946,6 +3168,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GORGO AL MONTICANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2959,6 +3182,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GOSALDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2972,6 +3196,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANCONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2985,6 +3210,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANTORTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -2998,6 +3224,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANZE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3011,6 +3238,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GREZZANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3024,6 +3252,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRISIGNANO DI ZOCCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3037,6 +3266,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRUARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3050,6 +3280,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRUMOLO DELLE ABBADESSE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3063,6 +3294,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GUARDA VENETA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3076,6 +3308,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>IESOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3089,6 +3322,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ILLASI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3102,6 +3336,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA DELLA SCALA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3115,6 +3350,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA RIZZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3128,6 +3364,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA VICENTINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3141,6 +3378,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISTRANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3154,6 +3392,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LA VALLE AGORDINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3167,6 +3406,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAGHI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3180,6 +3420,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAMON</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3193,6 +3434,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LASTEBASSE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3206,6 +3448,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAVAGNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3219,6 +3462,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAZISE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3232,6 +3476,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LEGNAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3245,6 +3490,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LEGNARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3258,6 +3504,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LENDINARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3271,6 +3518,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LENTIAI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3284,6 +3532,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIMANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3297,6 +3546,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIMENA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3310,6 +3560,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIVINALLONGO DEL COL DI LANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3323,6 +3574,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONGARE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3336,6 +3588,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONGARONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3349,6 +3602,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3362,6 +3616,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOREGGIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3375,6 +3630,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LORENZAGO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3388,6 +3644,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOREO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3401,6 +3658,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LORIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3414,6 +3672,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOZZO ATESTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3427,6 +3686,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOZZO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3440,6 +3700,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUGO DI VICENZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3453,6 +3714,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUSIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3466,6 +3728,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUSIANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3479,6 +3742,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MALCESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3492,6 +3756,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MALO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3505,6 +3770,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MANSUE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3518,6 +3784,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARANO DI VALPOLICELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3531,6 +3798,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARANO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3544,6 +3812,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARCON</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3557,6 +3826,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARENO DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3570,6 +3840,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MAROSTICA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3583,6 +3854,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARTELLAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3596,6 +3868,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASER</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3609,6 +3882,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASERA&apos; DI PADOVA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3622,6 +3896,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASERADA SUL PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3635,6 +3910,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3648,6 +3924,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASON VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3661,6 +3938,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASSANZAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3674,6 +3952,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEDUNA DI LIVENZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3687,6 +3966,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEGLIADINO SAN FIDENZIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3700,6 +3980,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEGLIADINO SAN VITALE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3713,6 +3994,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEL</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3726,6 +4008,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MELARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3739,6 +4022,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3752,6 +4036,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MERLARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3765,6 +4050,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MESTRINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3778,6 +4064,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEZZANE DI SOTTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3791,6 +4078,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIANE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3804,6 +4092,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MINERBE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3817,6 +4106,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIRA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3830,6 +4120,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIRANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3843,6 +4134,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOGLIANO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3856,6 +4148,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOLVENA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3869,6 +4162,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONASTIER DI TREVISO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3882,6 +4176,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONFUMO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3895,6 +4190,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONSELICE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3908,6 +4204,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTAGNANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3921,6 +4218,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTE DI MALO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3934,6 +4232,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEBELLO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3947,6 +4246,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEBELLUNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3960,6 +4260,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIA DI CROSARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3973,6 +4274,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIO MAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3986,6 +4288,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIO PRECALCINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -3999,6 +4302,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEFORTE D&apos;ALPONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4012,6 +4316,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGALDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4025,6 +4330,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGALDELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4038,6 +4344,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGROTTO TERME</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4051,6 +4358,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEVIALE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4064,6 +4372,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTICELLO CONTE OTTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4077,6 +4386,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTORSO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4090,6 +4400,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MORGANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4103,6 +4414,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MORIAGO DELLA BATTAGLIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4116,6 +4428,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOSSANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4129,6 +4442,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOTTA DI LIVENZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4142,6 +4456,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOZZECANE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4155,6 +4470,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MUSILE DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4168,6 +4484,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MUSSOLENTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4181,6 +4498,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NANTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4194,6 +4512,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NEGRAR</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4207,6 +4526,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NERVESA DELLA BATTAGLIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4220,6 +4540,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOALE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4233,6 +4554,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4246,6 +4568,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGAROLE ROCCA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4259,6 +4582,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGAROLE VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4272,6 +4596,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4285,6 +4610,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4298,6 +4624,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA PADOVANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4311,6 +4638,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA VICENTINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4324,6 +4652,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OCCHIOBELLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4337,6 +4666,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ODERZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4350,6 +4680,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OPPEANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4363,6 +4694,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORGIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4376,6 +4708,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORMELLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4389,6 +4722,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORSAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4402,6 +4736,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OSPEDALETTO EUGANEO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4415,6 +4750,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OSPITALE DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4428,6 +4764,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PADERNO DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4441,6 +4778,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PADOVA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4454,6 +4792,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PAESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4467,6 +4806,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PALU&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4480,6 +4820,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PAPOZZE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4493,6 +4834,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PASTRENGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4506,6 +4848,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDAVENA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4519,6 +4862,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDEMONTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4532,6 +4876,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDEROBBA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4545,6 +4890,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PERAROLO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4558,6 +4904,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PERNUMIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4571,6 +4918,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PESCANTINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4584,6 +4932,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PESCHIERA DEL GARDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4597,6 +4946,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PETTORAZZA GRIMANI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4610,6 +4960,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIACENZA D&apos;ADIGE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4623,6 +4974,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIANEZZE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4636,6 +4988,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIANIGA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4649,6 +5002,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIAZZOLA SUL BRENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4662,6 +5016,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE D&apos;ALPAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4675,6 +5030,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4688,6 +5044,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE DI SOLIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4701,6 +5058,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PINCARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4714,6 +5072,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOMBINO DESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4727,6 +5086,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOVE DI SACCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4740,6 +5100,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOVENE ROCCHETTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4753,6 +5114,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POIANA MAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4766,6 +5128,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POLESELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4779,6 +5142,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POLVERARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4792,6 +5156,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONSO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4805,6 +5170,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4818,6 +5184,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE NELLE ALPI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4831,6 +5198,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE SAN NICOLO&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4844,6 +5212,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTECCHIO POLESINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4857,6 +5226,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTELONGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4870,6 +5240,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONZANO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4883,6 +5254,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTO TOLLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4896,6 +5268,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTO VIRO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4909,6 +5282,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTOBUFFOLE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4922,6 +5296,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTOGRUARO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4935,6 +5310,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POSINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4948,6 +5324,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POSSAGNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4961,6 +5338,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVE DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4974,6 +5352,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVEGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -4987,6 +5366,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVEGLIANO VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5000,6 +5380,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POZZOLEONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5013,6 +5394,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POZZONOVO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5026,6 +5408,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PRAMAGGIORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5039,6 +5422,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PREGANZIOL</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5052,6 +5436,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PRESSANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5065,6 +5450,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PUOS D&apos;ALPAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5078,6 +5464,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUARTO D&apos;ALTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5091,6 +5478,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5104,6 +5492,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUINTO DI TREVISO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5117,6 +5506,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUINTO VICENTINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5130,6 +5520,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RECOARO TERME</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5143,6 +5534,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>REFRONTOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5156,6 +5548,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RESANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5169,6 +5562,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>REVINE LAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5182,6 +5576,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIESE PIO X</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5195,6 +5590,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIVAMONTE AGORDINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5208,6 +5604,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIVOLI VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5221,6 +5618,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5234,6 +5632,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROCCA PIETORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5247,6 +5646,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROMANO D&apos;EZZELINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5260,6 +5660,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCA&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5273,6 +5674,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCADE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5286,6 +5688,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCO ALL&apos;ADIGE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5299,6 +5702,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSA&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5312,6 +5716,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSOLINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5325,6 +5730,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSSANO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5338,6 +5744,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROTZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5351,6 +5758,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVERCHIARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5364,6 +5772,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVERE&apos; VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5377,6 +5786,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVEREDO DI GUA&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5390,6 +5800,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5403,6 +5814,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVOLON</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5416,6 +5828,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RUBANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5429,6 +5842,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SACCOLONGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5442,6 +5856,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5455,6 +5870,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALCEDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5468,6 +5884,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALETTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5481,6 +5898,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALGAREDA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5494,6 +5912,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALIZZOLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5507,6 +5926,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALZANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5520,6 +5940,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BELLINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5533,6 +5954,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BIAGIO DI CALLALTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5546,6 +5968,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BONIFACIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5559,6 +5982,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN DONA&apos; DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5572,6 +5996,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN FIOR</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5585,6 +6010,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GERMANO DEI BERICI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5598,6 +6024,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIORGIO DELLE PERTICHE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5611,6 +6038,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIORGIO IN BOSCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5624,6 +6052,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIOVANNI ILARIONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5637,6 +6066,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIOVANNI LUPATOTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5650,6 +6080,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GREGORIO NELLE ALPI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5663,6 +6094,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO BUON ALBERGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5676,6 +6108,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO DI LUPARI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5689,6 +6122,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO DI VENEZZE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5702,6 +6136,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MAURO DI SALINE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5715,6 +6150,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MICHELE AL TAGLIAMENTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5728,6 +6164,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN NAZARIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5741,6 +6178,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN NICOLO&apos; DI COMELICO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5754,6 +6192,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5767,6 +6206,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI FELETTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5780,6 +6220,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI MORUBIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5793,6 +6234,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO IN CARIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5806,6 +6248,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO IN GU</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5819,6 +6262,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO MUSSOLINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5832,6 +6276,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO VIMINARIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5845,6 +6290,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN POLO DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5858,6 +6304,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN TOMASO AGORDINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5871,6 +6318,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VENDEMIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5884,6 +6332,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VITO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5897,6 +6346,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VITO DI LEGUZZANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5910,6 +6360,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN ZENO DI MONTAGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5923,6 +6374,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN ZENONE DEGLI EZZELINI</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5936,6 +6388,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANDRIGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5949,6 +6402,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANGUINETTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5962,6 +6416,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;AMBROGIO DI VALPOLICELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5975,6 +6430,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ANGELO DI PIOVE DI SACCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -5988,6 +6444,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ANNA D&apos;ALFAEDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6001,6 +6458,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ELENA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6014,6 +6472,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;URBANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6027,6 +6486,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA GIUSTINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6040,6 +6500,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA GIUSTINA IN COLLE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6053,6 +6514,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA LUCIA DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6066,6 +6528,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA MARGHERITA D&apos;ADIGE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6079,6 +6542,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA MARIA DI SALA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6092,6 +6556,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTO STEFANO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6105,6 +6570,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTO STINO DI LIVENZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6118,6 +6584,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTORSO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6131,6 +6598,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAONARA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6144,6 +6612,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAPPADA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6157,6 +6626,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SARCEDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6170,6 +6640,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAREGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6183,6 +6654,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SARMEDE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6196,6 +6668,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCHIAVON</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6209,6 +6682,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCHIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6222,6 +6696,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCORZE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6235,6 +6710,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEDICO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6248,6 +6724,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEGUSINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6261,6 +6738,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVA DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6274,6 +6752,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVA DI PROGNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6287,6 +6766,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVAZZANO DENTRO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6300,6 +6780,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEREN DEL GRAPPA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6313,6 +6794,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SERNAGLIA DELLA BATTAGLIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6326,6 +6808,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SILEA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6339,6 +6822,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6352,6 +6836,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOLAGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6365,6 +6850,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOLESINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6378,6 +6864,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOMMACAMPAGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6391,6 +6878,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6404,6 +6892,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SORGA&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6417,6 +6906,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOSPIROLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6430,6 +6920,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOSSANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6443,6 +6934,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVERZENE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6456,6 +6948,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVIZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6469,6 +6962,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVRAMONTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6482,6 +6976,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SPINEA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6495,6 +6990,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SPRESIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6508,6 +7004,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STANGHELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6521,6 +7018,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STIENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6534,6 +7032,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STRA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6547,6 +7046,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SUSEGANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6560,6 +7060,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAGLIO DI PO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6573,6 +7074,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAIBON AGORDINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6586,6 +7088,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAMBRE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6599,6 +7102,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TARZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6612,6 +7116,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEGLIO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6625,6 +7130,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6638,6 +7144,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TERRASSA PADOVANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6651,6 +7158,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TERRAZZO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6664,6 +7172,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEZZE SUL BRENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6677,6 +7186,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>THIENE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6690,6 +7200,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TOMBOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6703,6 +7214,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TONEZZA DEL CIMONE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6716,6 +7228,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRE DI MOSTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6729,6 +7242,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORREBELVICINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6742,6 +7256,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORREGLIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6755,6 +7270,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRI DEL BENACO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6768,6 +7284,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRI DI QUARTESOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6781,6 +7298,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREBASELEGHE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6794,6 +7312,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRECENTA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6807,6 +7326,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREGNAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6820,6 +7340,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVENZUOLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6833,6 +7354,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVIGNANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6846,6 +7368,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVISO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6859,6 +7382,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRIBANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6872,6 +7396,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRICHIANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6885,6 +7410,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRISSINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6898,6 +7424,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>URBANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6911,6 +7438,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDAGNO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6924,6 +7452,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDASTICO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6937,6 +7466,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDOBBIADENE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6950,6 +7480,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALEGGIO SUL MINCIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6963,6 +7494,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLADA AGORDINA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6976,6 +7508,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLE DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -6989,6 +7522,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLI DEL PASUBIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7002,6 +7536,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALSTAGNA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7015,6 +7550,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VAS</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7028,6 +7564,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VAZZOLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7041,6 +7578,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VEDELAGO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7054,6 +7592,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VEGGIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7067,6 +7606,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VELO D&apos;ASTICO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7080,6 +7620,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VELO VERONESE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7093,6 +7634,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VENEZIA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7106,6 +7648,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VERONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7119,6 +7662,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VERONELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7132,6 +7676,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VESCOVANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7145,6 +7690,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VESTENANOVA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7158,6 +7704,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VICENZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7171,6 +7718,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIDOR</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7184,6 +7732,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGASIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7197,6 +7746,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGHIZZOLO D&apos;ESTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7210,6 +7760,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGO DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7223,6 +7774,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGODARZERE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7236,6 +7788,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGONOVO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7249,6 +7802,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGONZA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7262,6 +7816,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA BARTOLOMEA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7275,6 +7830,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA DEL CONTE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7288,6 +7844,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA ESTENSE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7301,6 +7858,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLADOSE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7314,6 +7872,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAFRANCA DI VERONA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7327,6 +7886,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAFRANCA PADOVANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7340,6 +7900,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAGA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7353,6 +7914,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAMARZANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7366,6 +7928,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA DEL GHEBBO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7379,6 +7942,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA DI CAMPOSAMPIERO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7392,6 +7956,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA MARCHESANA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7405,6 +7970,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAVERLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7418,6 +7984,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLORBA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7431,6 +7998,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VITTORIO VENETO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7444,6 +8012,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7457,6 +8026,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VODO CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7470,6 +8040,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VOLPAGO DEL MONTELLO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7483,6 +8054,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VOLTAGO AGORDINO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7496,6 +8068,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZANE&apos;</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7509,6 +8082,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZENSON DI PIAVE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7522,6 +8096,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZERMEGHEDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7535,6 +8110,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZERO BRANCO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7548,6 +8124,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZEVIO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7561,6 +8138,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZIMELLA</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7574,6 +8152,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOLDO ALTO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7587,6 +8166,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOPPE&apos; DI CADORE</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7600,6 +8180,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOVENCEDO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7613,6 +8194,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZUGLIANO</name>
 			<Snippet maxLines="2"></Snippet>
 			
@@ -7629,6 +8211,7 @@
 	<Folder>
 		<name>Feature Labels (NOME_COM)</name>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ABANO TERME</name>
 			
 			<Point>
@@ -7636,6 +8219,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ADRIA</name>
 			
 			<Point>
@@ -7643,6 +8227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AFFI</name>
 			
 			<Point>
@@ -7650,6 +8235,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGNA</name>
 			
 			<Point>
@@ -7657,6 +8243,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGORDO</name>
 			
 			<Point>
@@ -7664,6 +8251,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AGUGLIARO</name>
 			
 			<Point>
@@ -7671,6 +8259,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALANO DI PIAVE</name>
 			
 			<Point>
@@ -7678,6 +8267,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBAREDO D&apos;ADIGE</name>
 			
 			<Point>
@@ -7685,6 +8275,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBETTONE</name>
 			
 			<Point>
@@ -7692,6 +8283,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALBIGNASEGO</name>
 			
 			<Point>
@@ -7699,6 +8291,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALLEGHE</name>
 			
 			<Point>
@@ -7706,6 +8299,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALONTE</name>
 			
 			<Point>
@@ -7713,6 +8307,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTAVILLA VICENTINA</name>
 			
 			<Point>
@@ -7720,6 +8315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTISSIMO</name>
 			
 			<Point>
@@ -7727,6 +8323,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ALTIVOLE</name>
 			
 			<Point>
@@ -7734,6 +8331,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANGIARI</name>
 			
 			<Point>
@@ -7741,6 +8339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANGUILLARA VENETA</name>
 			
 			<Point>
@@ -7748,6 +8347,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ANNONE VENETO</name>
 			
 			<Point>
@@ -7755,6 +8355,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCADE</name>
 			
 			<Point>
@@ -7762,6 +8363,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCOLE</name>
 			
 			<Point>
@@ -7769,6 +8371,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARCUGNANO</name>
 			
 			<Point>
@@ -7776,6 +8379,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARIANO NEL POLESINE</name>
 			
 			<Point>
@@ -7783,6 +8387,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARQUA&apos; PETRARCA</name>
 			
 			<Point>
@@ -7790,6 +8395,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARQUA&apos; POLESINE</name>
 			
 			<Point>
@@ -7797,6 +8403,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARRE</name>
 			
 			<Point>
@@ -7804,6 +8411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARSIE&apos;</name>
 			
 			<Point>
@@ -7811,6 +8419,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARSIERO</name>
 			
 			<Point>
@@ -7818,6 +8427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARZERGRANDE</name>
 			
 			<Point>
@@ -7825,6 +8435,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ARZIGNANO</name>
 			
 			<Point>
@@ -7832,6 +8443,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASIAGO</name>
 			
 			<Point>
@@ -7839,6 +8451,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASIGLIANO VENETO</name>
 			
 			<Point>
@@ -7846,6 +8459,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ASOLO</name>
 			
 			<Point>
@@ -7853,6 +8467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>AURONZO DI CADORE</name>
 			
 			<Point>
@@ -7860,6 +8475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BADIA CALAVENA</name>
 			
 			<Point>
@@ -7867,6 +8483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BADIA POLESINE</name>
 			
 			<Point>
@@ -7874,6 +8491,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAGNOLI DI SOPRA</name>
 			
 			<Point>
@@ -7881,6 +8499,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAGNOLO DI PO</name>
 			
 			<Point>
@@ -7888,6 +8507,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BAONE</name>
 			
 			<Point>
@@ -7895,6 +8515,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARBARANO VICENTINO</name>
 			
 			<Point>
@@ -7902,6 +8523,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARBONA</name>
 			
 			<Point>
@@ -7909,6 +8531,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BARDOLINO</name>
 			
 			<Point>
@@ -7916,6 +8539,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BASSANO DEL GRAPPA</name>
 			
 			<Point>
@@ -7923,6 +8547,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BATTAGLIA TERME</name>
 			
 			<Point>
@@ -7930,6 +8555,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BELFIORE</name>
 			
 			<Point>
@@ -7937,6 +8563,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BELLUNO</name>
 			
 			<Point>
@@ -7944,6 +8571,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BERGANTINO</name>
 			
 			<Point>
@@ -7951,6 +8579,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BEVILACQUA</name>
 			
 			<Point>
@@ -7958,6 +8587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOARA PISANI</name>
 			
 			<Point>
@@ -7965,6 +8595,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOLZANO VICENTINO</name>
 			
 			<Point>
@@ -7972,6 +8603,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BONAVIGO</name>
 			
 			<Point>
@@ -7979,6 +8611,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORCA DI CADORE</name>
 			
 			<Point>
@@ -7986,6 +8619,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORGORICCO</name>
 			
 			<Point>
@@ -7993,6 +8627,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BORSO DEL GRAPPA</name>
 			
 			<Point>
@@ -8000,6 +8635,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSARO</name>
 			
 			<Point>
@@ -8007,6 +8643,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSCHI SANT&apos;ANNA</name>
 			
 			<Point>
@@ -8014,6 +8651,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOSCO CHIESANUOVA</name>
 			
 			<Point>
@@ -8021,6 +8659,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOVOLENTA</name>
 			
 			<Point>
@@ -8028,6 +8667,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BOVOLONE</name>
 			
 			<Point>
@@ -8035,6 +8675,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BREDA DI PIAVE</name>
 			
 			<Point>
@@ -8042,6 +8683,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BREGANZE</name>
 			
 			<Point>
@@ -8049,6 +8691,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENDOLA</name>
 			
 			<Point>
@@ -8056,6 +8699,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENTINO BELLUNO</name>
 			
 			<Point>
@@ -8063,6 +8707,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRENZONE</name>
 			
 			<Point>
@@ -8070,6 +8715,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRESSANVIDO</name>
 			
 			<Point>
@@ -8077,6 +8723,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BROGLIANO</name>
 			
 			<Point>
@@ -8084,6 +8731,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BRUGINE</name>
 			
 			<Point>
@@ -8091,6 +8739,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BUSSOLENGO</name>
 			
 			<Point>
@@ -8098,6 +8747,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>BUTTAPIETRA</name>
 			
 			<Point>
@@ -8105,6 +8755,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CADONEGHE</name>
 			
 			<Point>
@@ -8112,6 +8763,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAERANO DI SAN MARCO</name>
 			
 			<Point>
@@ -8119,6 +8771,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALALZO DI CADORE</name>
 			
 			<Point>
@@ -8126,6 +8779,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALDIERO</name>
 			
 			<Point>
@@ -8133,6 +8787,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALDOGNO</name>
 			
 			<Point>
@@ -8140,6 +8795,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALTO</name>
 			
 			<Point>
@@ -8147,6 +8803,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALTRANO</name>
 			
 			<Point>
@@ -8154,6 +8811,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CALVENE</name>
 			
 			<Point>
@@ -8161,6 +8819,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMISANO VICENTINO</name>
 			
 			<Point>
@@ -8168,6 +8827,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPAGNA LUPIA</name>
 			
 			<Point>
@@ -8175,6 +8835,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPIGLIA DEI BERICI</name>
 			
 			<Point>
@@ -8182,6 +8843,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPO SAN MARTINO</name>
 			
 			<Point>
@@ -8189,6 +8851,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPODARSEGO</name>
 			
 			<Point>
@@ -8196,6 +8859,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPODORO</name>
 			
 			<Point>
@@ -8203,6 +8867,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOLONGO MAGGIORE</name>
 			
 			<Point>
@@ -8210,6 +8875,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOLONGO SUL BRENTA</name>
 			
 			<Point>
@@ -8217,6 +8883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPONOGARA</name>
 			
 			<Point>
@@ -8224,6 +8891,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAMPOSAMPIERO</name>
 			
 			<Point>
@@ -8231,6 +8899,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANALE D&apos;AGORDO</name>
 			
 			<Point>
@@ -8238,6 +8907,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANARO</name>
 			
 			<Point>
@@ -8245,6 +8915,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANDA</name>
 			
 			<Point>
@@ -8252,6 +8923,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CANDIANA</name>
 			
 			<Point>
@@ -8259,6 +8931,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAORLE</name>
 			
 			<Point>
@@ -8266,6 +8939,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAORLE</name>
 			
 			<Point>
@@ -8273,6 +8947,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAPPELLA MAGGIORE</name>
 			
 			<Point>
@@ -8280,6 +8955,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAPRINO VERONESE</name>
 			
 			<Point>
@@ -8287,6 +8963,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARBONERA</name>
 			
 			<Point>
@@ -8294,6 +8971,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARCERI</name>
 			
 			<Point>
@@ -8301,6 +8979,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARMIGNANO DI BRENTA</name>
 			
 			<Point>
@@ -8308,6 +8987,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARRE&apos;</name>
 			
 			<Point>
@@ -8315,6 +8995,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARTIGLIANO</name>
 			
 			<Point>
@@ -8322,6 +9003,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CARTURA</name>
 			
 			<Point>
@@ -8329,6 +9011,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALE DI SCODOSIA</name>
 			
 			<Point>
@@ -8336,6 +9019,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALE SUL SILE</name>
 			
 			<Point>
@@ -8343,6 +9027,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALEONE</name>
 			
 			<Point>
@@ -8350,6 +9035,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASALSERUGO</name>
 			
 			<Point>
@@ -8357,6 +9043,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASIER</name>
 			
 			<Point>
@@ -8364,6 +9051,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASSOLA</name>
 			
 			<Point>
@@ -8371,6 +9059,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTAGNARO</name>
 			
 			<Point>
@@ -8378,6 +9067,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTEGNERO</name>
 			
 			<Point>
@@ -8385,6 +9075,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTEL D&apos;AZZANO</name>
 			
 			<Point>
@@ -8392,6 +9083,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELBALDO</name>
 			
 			<Point>
@@ -8399,6 +9091,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELCUCCO</name>
 			
 			<Point>
@@ -8406,6 +9099,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELFRANCO VENETO</name>
 			
 			<Point>
@@ -8413,6 +9107,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELGOMBERTO</name>
 			
 			<Point>
@@ -8420,6 +9115,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELGUGLIELMO</name>
 			
 			<Point>
@@ -8427,6 +9123,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELLO DI GODEGO</name>
 			
 			<Point>
@@ -8434,6 +9131,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELLO LAVAZZO</name>
 			
 			<Point>
@@ -8441,6 +9139,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELMASSA</name>
 			
 			<Point>
@@ -8448,6 +9147,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELNOVO BARIANO</name>
 			
 			<Point>
@@ -8455,6 +9155,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CASTELNUOVO DEL GARDA</name>
 			
 			<Point>
@@ -8462,6 +9163,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVAION VERONESE</name>
 			
 			<Point>
@@ -8469,6 +9171,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVALLINO-TREPORTI</name>
 			
 			<Point>
@@ -8476,6 +9179,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVARZERE</name>
 			
 			<Point>
@@ -8483,6 +9187,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAVASO DEL TOMBA</name>
 			
 			<Point>
@@ -8490,6 +9195,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CAZZANO DI TRAMIGNA</name>
 			
 			<Point>
@@ -8497,6 +9203,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEGGIA</name>
 			
 			<Point>
@@ -8504,6 +9211,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CENCENIGHE AGORDINO</name>
 			
 			<Point>
@@ -8511,6 +9219,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CENESELLI</name>
 			
 			<Point>
@@ -8518,6 +9227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEREA</name>
 			
 			<Point>
@@ -8525,6 +9235,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CEREGNANO</name>
 			
 			<Point>
@@ -8532,6 +9243,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CERRO VERONESE</name>
 			
 			<Point>
@@ -8539,6 +9251,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CERVARESE SANTA CROCE</name>
 			
 			<Point>
@@ -8546,6 +9259,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CESIOMAGGIORE</name>
 			
 			<Point>
@@ -8553,6 +9267,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CESSALTO</name>
 			
 			<Point>
@@ -8560,6 +9275,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIAMPO</name>
 			
 			<Point>
@@ -8567,6 +9283,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIARANO</name>
 			
 			<Point>
@@ -8574,6 +9291,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIES D&apos;ALPAGO</name>
 			
 			<Point>
@@ -8581,6 +9299,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIOGGIA</name>
 			
 			<Point>
@@ -8588,6 +9307,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CHIUPPANO</name>
 			
 			<Point>
@@ -8595,6 +9315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CIBIANA DI CADORE</name>
 			
 			<Point>
@@ -8602,6 +9323,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CIMADOLMO</name>
 			
 			<Point>
@@ -8609,6 +9331,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CINTO CAOMAGGIORE</name>
 			
 			<Point>
@@ -8616,6 +9339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CINTO EUGANEO</name>
 			
 			<Point>
@@ -8623,6 +9347,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CISMON DEL GRAPPA</name>
 			
 			<Point>
@@ -8630,6 +9355,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CISON DI VALMARINO</name>
 			
 			<Point>
@@ -8637,6 +9363,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CITTADELLA</name>
 			
 			<Point>
@@ -8644,6 +9371,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CODEVIGO</name>
 			
 			<Point>
@@ -8651,6 +9379,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CODOGNE&apos;</name>
 			
 			<Point>
@@ -8658,6 +9387,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COGOLLO DEL CENGIO</name>
 			
 			<Point>
@@ -8665,6 +9395,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLLE SANTA LUCIA</name>
 			
 			<Point>
@@ -8672,6 +9403,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLLE UMBERTO</name>
 			
 			<Point>
@@ -8679,6 +9411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLOGNA VENETA</name>
 			
 			<Point>
@@ -8686,6 +9419,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COLOGNOLA AI COLLI</name>
 			
 			<Point>
@@ -8693,6 +9427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COMELICO SUPERIORE</name>
 			
 			<Point>
@@ -8700,6 +9435,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONA</name>
 			
 			<Point>
@@ -8707,6 +9443,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCAMARISE</name>
 			
 			<Point>
@@ -8714,6 +9451,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCO</name>
 			
 			<Point>
@@ -8721,6 +9459,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONCORDIA SAGITTARIA</name>
 			
 			<Point>
@@ -8728,6 +9467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONEGLIANO</name>
 			
 			<Point>
@@ -8735,6 +9475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CONSELVE</name>
 			
 			<Point>
@@ -8742,6 +9483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORBOLA</name>
 			
 			<Point>
@@ -8749,6 +9491,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORDIGNANO</name>
 			
 			<Point>
@@ -8756,6 +9499,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORNEDO VICENTINO</name>
 			
 			<Point>
@@ -8763,6 +9507,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORNUDA</name>
 			
 			<Point>
@@ -8770,6 +9515,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORREZZOLA</name>
 			
 			<Point>
@@ -8777,6 +9523,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CORTINA D&apos;AMPEZZO</name>
 			
 			<Point>
@@ -8784,6 +9531,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTA DI ROVIGO</name>
 			
 			<Point>
@@ -8791,6 +9539,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTABISSARA</name>
 			
 			<Point>
@@ -8798,6 +9547,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>COSTERMANO</name>
 			
 			<Point>
@@ -8805,6 +9555,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CREAZZO</name>
 			
 			<Point>
@@ -8812,6 +9563,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPADORO</name>
 			
 			<Point>
@@ -8819,6 +9571,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPANO DEL GRAPPA</name>
 			
 			<Point>
@@ -8826,6 +9579,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CRESPINO</name>
 			
 			<Point>
@@ -8833,6 +9587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CROCETTA DEL MONTELLO</name>
 			
 			<Point>
@@ -8840,6 +9595,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>CURTAROLO</name>
 			
 			<Point>
@@ -8847,6 +9603,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DANTA DI CADORE</name>
 			
 			<Point>
@@ -8854,6 +9611,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOLCE&apos;</name>
 			
 			<Point>
@@ -8861,6 +9619,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOLO</name>
 			
 			<Point>
@@ -8868,6 +9627,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DOMEGGE DI CADORE</name>
 			
 			<Point>
@@ -8875,6 +9635,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DUE CARRARE</name>
 			
 			<Point>
@@ -8882,6 +9643,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>DUEVILLE</name>
 			
 			<Point>
@@ -8889,6 +9651,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ENEGO</name>
 			
 			<Point>
@@ -8896,6 +9659,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERACLEA</name>
 			
 			<Point>
@@ -8903,6 +9667,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERBE&apos;</name>
 			
 			<Point>
@@ -8910,6 +9675,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ERBEZZO</name>
 			
 			<Point>
@@ -8917,6 +9683,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ESTE</name>
 			
 			<Point>
@@ -8924,6 +9691,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FALCADE</name>
 			
 			<Point>
@@ -8931,6 +9699,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARA VICENTINO</name>
 			
 			<Point>
@@ -8938,6 +9707,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARRA D&apos;ALPAGO</name>
 			
 			<Point>
@@ -8945,6 +9715,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FARRA DI SOLIGO</name>
 			
 			<Point>
@@ -8952,6 +9723,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FELTRE</name>
 			
 			<Point>
@@ -8959,6 +9731,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FERRARA DI MONTE BALDO</name>
 			
 			<Point>
@@ -8966,6 +9739,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FICAROLO</name>
 			
 			<Point>
@@ -8973,6 +9747,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FIESSO D&apos;ARTICO</name>
 			
 			<Point>
@@ -8980,6 +9755,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FIESSO UMBERTIANO</name>
 			
 			<Point>
@@ -8987,6 +9763,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOLLINA</name>
 			
 			<Point>
@@ -8994,6 +9771,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTANELLE</name>
 			
 			<Point>
@@ -9001,6 +9779,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTANIVA</name>
 			
 			<Point>
@@ -9008,6 +9787,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONTE</name>
 			
 			<Point>
@@ -9015,6 +9795,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FONZASO</name>
 			
 			<Point>
@@ -9022,6 +9803,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FORNO DI ZOLDO</name>
 			
 			<Point>
@@ -9029,6 +9811,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSALTA DI PIAVE</name>
 			
 			<Point>
@@ -9036,6 +9819,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSALTA DI PORTOGRUARO</name>
 			
 			<Point>
@@ -9043,6 +9827,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOSSO&apos;</name>
 			
 			<Point>
@@ -9050,6 +9835,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FOZA</name>
 			
 			<Point>
@@ -9057,6 +9843,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FRASSINELLE POLESINE</name>
 			
 			<Point>
@@ -9064,6 +9851,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FRATTA POLESINE</name>
 			
 			<Point>
@@ -9071,6 +9859,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FREGONA</name>
 			
 			<Point>
@@ -9078,6 +9867,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>FUMANE</name>
 			
 			<Point>
@@ -9085,6 +9875,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAIARINE</name>
 			
 			<Point>
@@ -9092,6 +9883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAIBA</name>
 			
 			<Point>
@@ -9099,6 +9891,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALLIERA VENETA</name>
 			
 			<Point>
@@ -9106,6 +9899,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALLIO</name>
 			
 			<Point>
@@ -9113,6 +9907,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GALZIGNANO TERME</name>
 			
 			<Point>
@@ -9120,6 +9915,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAMBELLARA</name>
 			
 			<Point>
@@ -9127,6 +9923,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAMBUGLIANO</name>
 			
 			<Point>
@@ -9134,6 +9931,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GARDA</name>
 			
 			<Point>
@@ -9141,6 +9939,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAVELLO</name>
 			
 			<Point>
@@ -9148,6 +9947,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAZZO</name>
 			
 			<Point>
@@ -9155,6 +9955,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GAZZO VERONESE</name>
 			
 			<Point>
@@ -9162,6 +9963,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GIACCIANO CON BARUCHELLA</name>
 			
 			<Point>
@@ -9169,6 +9971,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GIAVERA DEL MONTELLO</name>
 			
 			<Point>
@@ -9176,6 +9979,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GODEGA DI SANT&apos;URBANO</name>
 			
 			<Point>
@@ -9183,6 +9987,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GORGO AL MONTICANO</name>
 			
 			<Point>
@@ -9190,6 +9995,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GOSALDO</name>
 			
 			<Point>
@@ -9197,6 +10003,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANCONA</name>
 			
 			<Point>
@@ -9204,6 +10011,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANTORTO</name>
 			
 			<Point>
@@ -9211,6 +10019,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRANZE</name>
 			
 			<Point>
@@ -9218,6 +10027,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GREZZANA</name>
 			
 			<Point>
@@ -9225,6 +10035,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRISIGNANO DI ZOCCO</name>
 			
 			<Point>
@@ -9232,6 +10043,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRUARO</name>
 			
 			<Point>
@@ -9239,6 +10051,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GRUMOLO DELLE ABBADESSE</name>
 			
 			<Point>
@@ -9246,6 +10059,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>GUARDA VENETA</name>
 			
 			<Point>
@@ -9253,6 +10067,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>IESOLO</name>
 			
 			<Point>
@@ -9260,6 +10075,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ILLASI</name>
 			
 			<Point>
@@ -9267,6 +10083,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA DELLA SCALA</name>
 			
 			<Point>
@@ -9274,6 +10091,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA RIZZA</name>
 			
 			<Point>
@@ -9281,6 +10099,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISOLA VICENTINA</name>
 			
 			<Point>
@@ -9288,6 +10107,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ISTRANA</name>
 			
 			<Point>
@@ -9295,6 +10115,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LA VALLE AGORDINA</name>
 			
 			<Point>
@@ -9302,6 +10123,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAGHI</name>
 			
 			<Point>
@@ -9309,6 +10131,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAMON</name>
 			
 			<Point>
@@ -9316,6 +10139,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LASTEBASSE</name>
 			
 			<Point>
@@ -9323,6 +10147,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAVAGNO</name>
 			
 			<Point>
@@ -9330,6 +10155,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LAZISE</name>
 			
 			<Point>
@@ -9337,6 +10163,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LEGNAGO</name>
 			
 			<Point>
@@ -9344,6 +10171,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LEGNARO</name>
 			
 			<Point>
@@ -9351,6 +10179,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LENDINARA</name>
 			
 			<Point>
@@ -9358,6 +10187,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LENTIAI</name>
 			
 			<Point>
@@ -9365,6 +10195,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIMANA</name>
 			
 			<Point>
@@ -9372,6 +10203,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIMENA</name>
 			
 			<Point>
@@ -9379,6 +10211,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LIVINALLONGO DEL COL DI LANA</name>
 			
 			<Point>
@@ -9386,6 +10219,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONGARE</name>
 			
 			<Point>
@@ -9393,6 +10227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONGARONE</name>
 			
 			<Point>
@@ -9400,6 +10235,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LONIGO</name>
 			
 			<Point>
@@ -9407,6 +10243,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOREGGIA</name>
 			
 			<Point>
@@ -9414,6 +10251,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LORENZAGO DI CADORE</name>
 			
 			<Point>
@@ -9421,6 +10259,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOREO</name>
 			
 			<Point>
@@ -9428,6 +10267,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LORIA</name>
 			
 			<Point>
@@ -9435,6 +10275,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOZZO ATESTINO</name>
 			
 			<Point>
@@ -9442,6 +10283,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LOZZO DI CADORE</name>
 			
 			<Point>
@@ -9449,6 +10291,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUGO DI VICENZA</name>
 			
 			<Point>
@@ -9456,6 +10299,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUSIA</name>
 			
 			<Point>
@@ -9463,6 +10307,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>LUSIANA</name>
 			
 			<Point>
@@ -9470,6 +10315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MALCESINE</name>
 			
 			<Point>
@@ -9477,6 +10323,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MALO</name>
 			
 			<Point>
@@ -9484,6 +10331,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MANSUE&apos;</name>
 			
 			<Point>
@@ -9491,6 +10339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARANO DI VALPOLICELLA</name>
 			
 			<Point>
@@ -9498,6 +10347,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARANO VICENTINO</name>
 			
 			<Point>
@@ -9505,6 +10355,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARCON</name>
 			
 			<Point>
@@ -9512,6 +10363,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARENO DI PIAVE</name>
 			
 			<Point>
@@ -9519,6 +10371,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MAROSTICA</name>
 			
 			<Point>
@@ -9526,6 +10379,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MARTELLAGO</name>
 			
 			<Point>
@@ -9533,6 +10387,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASER</name>
 			
 			<Point>
@@ -9540,6 +10395,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASERA&apos; DI PADOVA</name>
 			
 			<Point>
@@ -9547,6 +10403,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASERADA SUL PIAVE</name>
 			
 			<Point>
@@ -9554,6 +10411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASI</name>
 			
 			<Point>
@@ -9561,6 +10419,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASON VICENTINO</name>
 			
 			<Point>
@@ -9568,6 +10427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MASSANZAGO</name>
 			
 			<Point>
@@ -9575,6 +10435,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEDUNA DI LIVENZA</name>
 			
 			<Point>
@@ -9582,6 +10443,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEGLIADINO SAN FIDENZIO</name>
 			
 			<Point>
@@ -9589,6 +10451,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEGLIADINO SAN VITALE</name>
 			
 			<Point>
@@ -9596,6 +10459,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEL</name>
 			
 			<Point>
@@ -9603,6 +10467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MELARA</name>
 			
 			<Point>
@@ -9610,6 +10475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEOLO</name>
 			
 			<Point>
@@ -9617,6 +10483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MERLARA</name>
 			
 			<Point>
@@ -9624,6 +10491,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MESTRINO</name>
 			
 			<Point>
@@ -9631,6 +10499,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MEZZANE DI SOTTO</name>
 			
 			<Point>
@@ -9638,6 +10507,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIANE</name>
 			
 			<Point>
@@ -9645,6 +10515,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MINERBE</name>
 			
 			<Point>
@@ -9652,6 +10523,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIRA</name>
 			
 			<Point>
@@ -9659,6 +10531,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MIRANO</name>
 			
 			<Point>
@@ -9666,6 +10539,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOGLIANO VENETO</name>
 			
 			<Point>
@@ -9673,6 +10547,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOLVENA</name>
 			
 			<Point>
@@ -9680,6 +10555,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONASTIER DI TREVISO</name>
 			
 			<Point>
@@ -9687,6 +10563,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONFUMO</name>
 			
 			<Point>
@@ -9694,6 +10571,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONSELICE</name>
 			
 			<Point>
@@ -9701,6 +10579,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTAGNANA</name>
 			
 			<Point>
@@ -9708,6 +10587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTE DI MALO</name>
 			
 			<Point>
@@ -9715,6 +10595,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEBELLO VICENTINO</name>
 			
 			<Point>
@@ -9722,6 +10603,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEBELLUNA</name>
 			
 			<Point>
@@ -9729,6 +10611,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIA DI CROSARA</name>
 			
 			<Point>
@@ -9736,6 +10619,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIO MAGGIORE</name>
 			
 			<Point>
@@ -9743,6 +10627,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTECCHIO PRECALCINO</name>
 			
 			<Point>
@@ -9750,6 +10635,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEFORTE D&apos;ALPONE</name>
 			
 			<Point>
@@ -9757,6 +10643,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGALDA</name>
 			
 			<Point>
@@ -9764,6 +10651,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGALDELLA</name>
 			
 			<Point>
@@ -9771,6 +10659,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEGROTTO TERME</name>
 			
 			<Point>
@@ -9778,6 +10667,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTEVIALE</name>
 			
 			<Point>
@@ -9785,6 +10675,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTICELLO CONTE OTTO</name>
 			
 			<Point>
@@ -9792,6 +10683,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MONTORSO VICENTINO</name>
 			
 			<Point>
@@ -9799,6 +10691,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MORGANO</name>
 			
 			<Point>
@@ -9806,6 +10699,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MORIAGO DELLA BATTAGLIA</name>
 			
 			<Point>
@@ -9813,6 +10707,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOSSANO</name>
 			
 			<Point>
@@ -9820,6 +10715,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOTTA DI LIVENZA</name>
 			
 			<Point>
@@ -9827,6 +10723,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MOZZECANE</name>
 			
 			<Point>
@@ -9834,6 +10731,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MUSILE DI PIAVE</name>
 			
 			<Point>
@@ -9841,6 +10739,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>MUSSOLENTE</name>
 			
 			<Point>
@@ -9848,6 +10747,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NANTO</name>
 			
 			<Point>
@@ -9855,6 +10755,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NEGRAR</name>
 			
 			<Point>
@@ -9862,6 +10763,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NERVESA DELLA BATTAGLIA</name>
 			
 			<Point>
@@ -9869,6 +10771,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOALE</name>
 			
 			<Point>
@@ -9876,6 +10779,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGARA</name>
 			
 			<Point>
@@ -9883,6 +10787,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGAROLE ROCCA</name>
 			
 			<Point>
@@ -9890,6 +10795,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOGAROLE VICENTINO</name>
 			
 			<Point>
@@ -9897,6 +10803,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVE</name>
 			
 			<Point>
@@ -9904,6 +10811,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA DI PIAVE</name>
 			
 			<Point>
@@ -9911,6 +10819,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA PADOVANA</name>
 			
 			<Point>
@@ -9918,6 +10827,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>NOVENTA VICENTINA</name>
 			
 			<Point>
@@ -9925,6 +10835,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OCCHIOBELLO</name>
 			
 			<Point>
@@ -9932,6 +10843,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ODERZO</name>
 			
 			<Point>
@@ -9939,6 +10851,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OPPEANO</name>
 			
 			<Point>
@@ -9946,6 +10859,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORGIANO</name>
 			
 			<Point>
@@ -9953,6 +10867,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORMELLE</name>
 			
 			<Point>
@@ -9960,6 +10875,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ORSAGO</name>
 			
 			<Point>
@@ -9967,6 +10883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OSPEDALETTO EUGANEO</name>
 			
 			<Point>
@@ -9974,6 +10891,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>OSPITALE DI CADORE</name>
 			
 			<Point>
@@ -9981,6 +10899,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PADERNO DEL GRAPPA</name>
 			
 			<Point>
@@ -9988,6 +10907,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PADOVA</name>
 			
 			<Point>
@@ -9995,6 +10915,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PAESE</name>
 			
 			<Point>
@@ -10002,6 +10923,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PALU&apos;</name>
 			
 			<Point>
@@ -10009,6 +10931,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PAPOZZE</name>
 			
 			<Point>
@@ -10016,6 +10939,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PASTRENGO</name>
 			
 			<Point>
@@ -10023,6 +10947,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDAVENA</name>
 			
 			<Point>
@@ -10030,6 +10955,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDEMONTE</name>
 			
 			<Point>
@@ -10037,6 +10963,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PEDEROBBA</name>
 			
 			<Point>
@@ -10044,6 +10971,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PERAROLO DI CADORE</name>
 			
 			<Point>
@@ -10051,6 +10979,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PERNUMIA</name>
 			
 			<Point>
@@ -10058,6 +10987,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PESCANTINA</name>
 			
 			<Point>
@@ -10065,6 +10995,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PESCHIERA DEL GARDA</name>
 			
 			<Point>
@@ -10072,6 +11003,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PETTORAZZA GRIMANI</name>
 			
 			<Point>
@@ -10079,6 +11011,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIACENZA D&apos;ADIGE</name>
 			
 			<Point>
@@ -10086,6 +11019,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIANEZZE</name>
 			
 			<Point>
@@ -10093,6 +11027,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIANIGA</name>
 			
 			<Point>
@@ -10100,6 +11035,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIAZZOLA SUL BRENTA</name>
 			
 			<Point>
@@ -10107,6 +11043,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE D&apos;ALPAGO</name>
 			
 			<Point>
@@ -10114,6 +11051,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE DI CADORE</name>
 			
 			<Point>
@@ -10121,6 +11059,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIEVE DI SOLIGO</name>
 			
 			<Point>
@@ -10128,6 +11067,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PINCARA</name>
 			
 			<Point>
@@ -10135,6 +11075,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOMBINO DESE</name>
 			
 			<Point>
@@ -10142,6 +11083,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOVE DI SACCO</name>
 			
 			<Point>
@@ -10149,6 +11091,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PIOVENE ROCCHETTE</name>
 			
 			<Point>
@@ -10156,6 +11099,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POIANA MAGGIORE</name>
 			
 			<Point>
@@ -10163,6 +11107,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POLESELLA</name>
 			
 			<Point>
@@ -10170,6 +11115,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POLVERARA</name>
 			
 			<Point>
@@ -10177,6 +11123,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONSO</name>
 			
 			<Point>
@@ -10184,6 +11131,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE DI PIAVE</name>
 			
 			<Point>
@@ -10191,6 +11139,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE NELLE ALPI</name>
 			
 			<Point>
@@ -10198,6 +11147,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTE SAN NICOLO&apos;</name>
 			
 			<Point>
@@ -10205,6 +11155,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTECCHIO POLESINE</name>
 			
 			<Point>
@@ -10212,6 +11163,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONTELONGO</name>
 			
 			<Point>
@@ -10219,6 +11171,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PONZANO VENETO</name>
 			
 			<Point>
@@ -10226,6 +11179,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTO TOLLE</name>
 			
 			<Point>
@@ -10233,6 +11187,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTO VIRO</name>
 			
 			<Point>
@@ -10240,6 +11195,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTOBUFFOLE&apos;</name>
 			
 			<Point>
@@ -10247,6 +11203,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PORTOGRUARO</name>
 			
 			<Point>
@@ -10254,6 +11211,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POSINA</name>
 			
 			<Point>
@@ -10261,6 +11219,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POSSAGNO</name>
 			
 			<Point>
@@ -10268,6 +11227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVE DEL GRAPPA</name>
 			
 			<Point>
@@ -10275,6 +11235,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVEGLIANO</name>
 			
 			<Point>
@@ -10282,6 +11243,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POVEGLIANO VERONESE</name>
 			
 			<Point>
@@ -10289,6 +11251,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POZZOLEONE</name>
 			
 			<Point>
@@ -10296,6 +11259,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>POZZONOVO</name>
 			
 			<Point>
@@ -10303,6 +11267,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PRAMAGGIORE</name>
 			
 			<Point>
@@ -10310,6 +11275,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PREGANZIOL</name>
 			
 			<Point>
@@ -10317,6 +11283,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PRESSANA</name>
 			
 			<Point>
@@ -10324,6 +11291,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>PUOS D&apos;ALPAGO</name>
 			
 			<Point>
@@ -10331,6 +11299,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUARTO D&apos;ALTINO</name>
 			
 			<Point>
@@ -10338,6 +11307,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUERO</name>
 			
 			<Point>
@@ -10345,6 +11315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUINTO DI TREVISO</name>
 			
 			<Point>
@@ -10352,6 +11323,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>QUINTO VICENTINO</name>
 			
 			<Point>
@@ -10359,6 +11331,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RECOARO TERME</name>
 			
 			<Point>
@@ -10366,6 +11339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>REFRONTOLO</name>
 			
 			<Point>
@@ -10373,6 +11347,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RESANA</name>
 			
 			<Point>
@@ -10380,6 +11355,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>REVINE LAGO</name>
 			
 			<Point>
@@ -10387,6 +11363,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIESE PIO X</name>
 			
 			<Point>
@@ -10394,6 +11371,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIVAMONTE AGORDINO</name>
 			
 			<Point>
@@ -10401,6 +11379,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RIVOLI VERONESE</name>
 			
 			<Point>
@@ -10408,6 +11387,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROANA</name>
 			
 			<Point>
@@ -10415,6 +11395,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROCCA PIETORE</name>
 			
 			<Point>
@@ -10422,6 +11403,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROMANO D&apos;EZZELINO</name>
 			
 			<Point>
@@ -10429,6 +11411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCA&apos;</name>
 			
 			<Point>
@@ -10436,6 +11419,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCADE</name>
 			
 			<Point>
@@ -10443,6 +11427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RONCO ALL&apos;ADIGE</name>
 			
 			<Point>
@@ -10450,6 +11435,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSA&apos;</name>
 			
 			<Point>
@@ -10457,6 +11443,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSOLINA</name>
 			
 			<Point>
@@ -10464,6 +11451,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROSSANO VENETO</name>
 			
 			<Point>
@@ -10471,6 +11459,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROTZO</name>
 			
 			<Point>
@@ -10478,6 +11467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVERCHIARA</name>
 			
 			<Point>
@@ -10485,6 +11475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVERE&apos; VERONESE</name>
 			
 			<Point>
@@ -10492,6 +11483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVEREDO DI GUA&apos;</name>
 			
 			<Point>
@@ -10499,6 +11491,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVIGO</name>
 			
 			<Point>
@@ -10506,6 +11499,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ROVOLON</name>
 			
 			<Point>
@@ -10513,6 +11507,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>RUBANO</name>
 			
 			<Point>
@@ -10520,6 +11515,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SACCOLONGO</name>
 			
 			<Point>
@@ -10527,6 +11523,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALARA</name>
 			
 			<Point>
@@ -10534,6 +11531,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALCEDO</name>
 			
 			<Point>
@@ -10541,6 +11539,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALETTO</name>
 			
 			<Point>
@@ -10548,6 +11547,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALGAREDA</name>
 			
 			<Point>
@@ -10555,6 +11555,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALIZZOLE</name>
 			
 			<Point>
@@ -10562,6 +11563,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SALZANO</name>
 			
 			<Point>
@@ -10569,6 +11571,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BELLINO</name>
 			
 			<Point>
@@ -10576,6 +11579,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BIAGIO DI CALLALTA</name>
 			
 			<Point>
@@ -10583,6 +11587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN BONIFACIO</name>
 			
 			<Point>
@@ -10590,6 +11595,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN DONA&apos; DI PIAVE</name>
 			
 			<Point>
@@ -10597,6 +11603,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN FIOR</name>
 			
 			<Point>
@@ -10604,6 +11611,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GERMANO DEI BERICI</name>
 			
 			<Point>
@@ -10611,6 +11619,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIORGIO DELLE PERTICHE</name>
 			
 			<Point>
@@ -10618,6 +11627,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIORGIO IN BOSCO</name>
 			
 			<Point>
@@ -10625,6 +11635,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIOVANNI ILARIONE</name>
 			
 			<Point>
@@ -10632,6 +11643,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GIOVANNI LUPATOTO</name>
 			
 			<Point>
@@ -10639,6 +11651,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN GREGORIO NELLE ALPI</name>
 			
 			<Point>
@@ -10646,6 +11659,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO BUON ALBERGO</name>
 			
 			<Point>
@@ -10653,6 +11667,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO DI LUPARI</name>
 			
 			<Point>
@@ -10660,6 +11675,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MARTINO DI VENEZZE</name>
 			
 			<Point>
@@ -10667,6 +11683,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MAURO DI SALINE</name>
 			
 			<Point>
@@ -10674,6 +11691,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN MICHELE AL TAGLIAMENTO</name>
 			
 			<Point>
@@ -10681,6 +11699,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN NAZARIO</name>
 			
 			<Point>
@@ -10688,6 +11707,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN NICOLO&apos; DI COMELICO</name>
 			
 			<Point>
@@ -10695,6 +11715,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI CADORE</name>
 			
 			<Point>
@@ -10702,6 +11723,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI FELETTO</name>
 			
 			<Point>
@@ -10709,6 +11731,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO DI MORUBIO</name>
 			
 			<Point>
@@ -10716,6 +11739,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO IN CARIANO</name>
 			
 			<Point>
@@ -10723,6 +11747,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO IN GU</name>
 			
 			<Point>
@@ -10730,6 +11755,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO MUSSOLINO</name>
 			
 			<Point>
@@ -10737,6 +11763,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN PIETRO VIMINARIO</name>
 			
 			<Point>
@@ -10744,6 +11771,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN POLO DI PIAVE</name>
 			
 			<Point>
@@ -10751,6 +11779,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN TOMASO AGORDINO</name>
 			
 			<Point>
@@ -10758,6 +11787,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VENDEMIANO</name>
 			
 			<Point>
@@ -10765,6 +11795,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VITO DI CADORE</name>
 			
 			<Point>
@@ -10772,6 +11803,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN VITO DI LEGUZZANO</name>
 			
 			<Point>
@@ -10779,6 +11811,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN ZENO DI MONTAGNA</name>
 			
 			<Point>
@@ -10786,6 +11819,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAN ZENONE DEGLI EZZELINI</name>
 			
 			<Point>
@@ -10793,6 +11827,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANDRIGO</name>
 			
 			<Point>
@@ -10800,6 +11835,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANGUINETTO</name>
 			
 			<Point>
@@ -10807,6 +11843,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;AMBROGIO DI VALPOLICELLA</name>
 			
 			<Point>
@@ -10814,6 +11851,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ANGELO DI PIOVE DI SACCO</name>
 			
 			<Point>
@@ -10821,6 +11859,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ANNA D&apos;ALFAEDO</name>
 			
 			<Point>
@@ -10828,6 +11867,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;ELENA</name>
 			
 			<Point>
@@ -10835,6 +11875,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANT&apos;URBANO</name>
 			
 			<Point>
@@ -10842,6 +11883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA GIUSTINA</name>
 			
 			<Point>
@@ -10849,6 +11891,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA GIUSTINA IN COLLE</name>
 			
 			<Point>
@@ -10856,6 +11899,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA LUCIA DI PIAVE</name>
 			
 			<Point>
@@ -10863,6 +11907,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA MARGHERITA D&apos;ADIGE</name>
 			
 			<Point>
@@ -10870,6 +11915,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTA MARIA DI SALA</name>
 			
 			<Point>
@@ -10877,6 +11923,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTO STEFANO DI CADORE</name>
 			
 			<Point>
@@ -10884,6 +11931,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTO STINO DI LIVENZA</name>
 			
 			<Point>
@@ -10891,6 +11939,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SANTORSO</name>
 			
 			<Point>
@@ -10898,6 +11947,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAONARA</name>
 			
 			<Point>
@@ -10905,6 +11955,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAPPADA</name>
 			
 			<Point>
@@ -10912,6 +11963,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SARCEDO</name>
 			
 			<Point>
@@ -10919,6 +11971,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SAREGO</name>
 			
 			<Point>
@@ -10926,6 +11979,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SARMEDE</name>
 			
 			<Point>
@@ -10933,6 +11987,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCHIAVON</name>
 			
 			<Point>
@@ -10940,6 +11995,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCHIO</name>
 			
 			<Point>
@@ -10947,6 +12003,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SCORZE&apos;</name>
 			
 			<Point>
@@ -10954,6 +12011,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEDICO</name>
 			
 			<Point>
@@ -10961,6 +12019,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEGUSINO</name>
 			
 			<Point>
@@ -10968,6 +12027,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVA DI CADORE</name>
 			
 			<Point>
@@ -10975,6 +12035,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVA DI PROGNO</name>
 			
 			<Point>
@@ -10982,6 +12043,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SELVAZZANO DENTRO</name>
 			
 			<Point>
@@ -10989,6 +12051,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SEREN DEL GRAPPA</name>
 			
 			<Point>
@@ -10996,6 +12059,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SERNAGLIA DELLA BATTAGLIA</name>
 			
 			<Point>
@@ -11003,6 +12067,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SILEA</name>
 			
 			<Point>
@@ -11010,6 +12075,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOAVE</name>
 			
 			<Point>
@@ -11017,6 +12083,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOLAGNA</name>
 			
 			<Point>
@@ -11024,6 +12091,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOLESINO</name>
 			
 			<Point>
@@ -11031,6 +12099,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOMMACAMPAGNA</name>
 			
 			<Point>
@@ -11038,6 +12107,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SONA</name>
 			
 			<Point>
@@ -11045,6 +12115,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SORGA&apos;</name>
 			
 			<Point>
@@ -11052,6 +12123,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOSPIROLO</name>
 			
 			<Point>
@@ -11059,6 +12131,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOSSANO</name>
 			
 			<Point>
@@ -11066,6 +12139,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVERZENE</name>
 			
 			<Point>
@@ -11073,6 +12147,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVIZZO</name>
 			
 			<Point>
@@ -11080,6 +12155,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SOVRAMONTE</name>
 			
 			<Point>
@@ -11087,6 +12163,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SPINEA</name>
 			
 			<Point>
@@ -11094,6 +12171,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SPRESIANO</name>
 			
 			<Point>
@@ -11101,6 +12179,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STANGHELLA</name>
 			
 			<Point>
@@ -11108,6 +12187,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STIENTA</name>
 			
 			<Point>
@@ -11115,6 +12195,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>STRA</name>
 			
 			<Point>
@@ -11122,6 +12203,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>SUSEGANA</name>
 			
 			<Point>
@@ -11129,6 +12211,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAGLIO DI PO</name>
 			
 			<Point>
@@ -11136,6 +12219,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAIBON AGORDINO</name>
 			
 			<Point>
@@ -11143,6 +12227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TAMBRE</name>
 			
 			<Point>
@@ -11150,6 +12235,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TARZO</name>
 			
 			<Point>
@@ -11157,6 +12243,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEGLIO VENETO</name>
 			
 			<Point>
@@ -11164,6 +12251,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEOLO</name>
 			
 			<Point>
@@ -11171,6 +12259,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TERRASSA PADOVANA</name>
 			
 			<Point>
@@ -11178,6 +12267,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TERRAZZO</name>
 			
 			<Point>
@@ -11185,6 +12275,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TEZZE SUL BRENTA</name>
 			
 			<Point>
@@ -11192,6 +12283,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>THIENE</name>
 			
 			<Point>
@@ -11199,6 +12291,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TOMBOLO</name>
 			
 			<Point>
@@ -11206,6 +12299,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TONEZZA DEL CIMONE</name>
 			
 			<Point>
@@ -11213,6 +12307,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRE DI MOSTO</name>
 			
 			<Point>
@@ -11220,6 +12315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORREBELVICINO</name>
 			
 			<Point>
@@ -11227,6 +12323,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORREGLIA</name>
 			
 			<Point>
@@ -11234,6 +12331,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRI DEL BENACO</name>
 			
 			<Point>
@@ -11241,6 +12339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TORRI DI QUARTESOLO</name>
 			
 			<Point>
@@ -11248,6 +12347,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREBASELEGHE</name>
 			
 			<Point>
@@ -11255,6 +12355,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRECENTA</name>
 			
 			<Point>
@@ -11262,6 +12363,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREGNAGO</name>
 			
 			<Point>
@@ -11269,6 +12371,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVENZUOLO</name>
 			
 			<Point>
@@ -11276,6 +12379,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVIGNANO</name>
 			
 			<Point>
@@ -11283,6 +12387,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TREVISO</name>
 			
 			<Point>
@@ -11290,6 +12395,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRIBANO</name>
 			
 			<Point>
@@ -11297,6 +12403,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRICHIANA</name>
 			
 			<Point>
@@ -11304,6 +12411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>TRISSINO</name>
 			
 			<Point>
@@ -11311,6 +12419,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>URBANA</name>
 			
 			<Point>
@@ -11318,6 +12427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDAGNO</name>
 			
 			<Point>
@@ -11325,6 +12435,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDASTICO</name>
 			
 			<Point>
@@ -11332,6 +12443,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALDOBBIADENE</name>
 			
 			<Point>
@@ -11339,6 +12451,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALEGGIO SUL MINCIO</name>
 			
 			<Point>
@@ -11346,6 +12459,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLADA AGORDINA</name>
 			
 			<Point>
@@ -11353,6 +12467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLE DI CADORE</name>
 			
 			<Point>
@@ -11360,6 +12475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALLI DEL PASUBIO</name>
 			
 			<Point>
@@ -11367,6 +12483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VALSTAGNA</name>
 			
 			<Point>
@@ -11374,6 +12491,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VAS</name>
 			
 			<Point>
@@ -11381,6 +12499,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VAZZOLA</name>
 			
 			<Point>
@@ -11388,6 +12507,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VEDELAGO</name>
 			
 			<Point>
@@ -11395,6 +12515,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VEGGIANO</name>
 			
 			<Point>
@@ -11402,6 +12523,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VELO D&apos;ASTICO</name>
 			
 			<Point>
@@ -11409,6 +12531,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VELO VERONESE</name>
 			
 			<Point>
@@ -11416,6 +12539,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VENEZIA</name>
 			
 			<Point>
@@ -11423,6 +12547,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VERONA</name>
 			
 			<Point>
@@ -11430,6 +12555,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VERONELLA</name>
 			
 			<Point>
@@ -11437,6 +12563,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VESCOVANA</name>
 			
 			<Point>
@@ -11444,6 +12571,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VESTENANOVA</name>
 			
 			<Point>
@@ -11451,6 +12579,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VICENZA</name>
 			
 			<Point>
@@ -11458,6 +12587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIDOR</name>
 			
 			<Point>
@@ -11465,6 +12595,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGASIO</name>
 			
 			<Point>
@@ -11472,6 +12603,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGHIZZOLO D&apos;ESTE</name>
 			
 			<Point>
@@ -11479,6 +12611,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGO DI CADORE</name>
 			
 			<Point>
@@ -11486,6 +12619,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGODARZERE</name>
 			
 			<Point>
@@ -11493,6 +12627,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGONOVO</name>
 			
 			<Point>
@@ -11500,6 +12635,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VIGONZA</name>
 			
 			<Point>
@@ -11507,6 +12643,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA BARTOLOMEA</name>
 			
 			<Point>
@@ -11514,6 +12651,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA DEL CONTE</name>
 			
 			<Point>
@@ -11521,6 +12659,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLA ESTENSE</name>
 			
 			<Point>
@@ -11528,6 +12667,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLADOSE</name>
 			
 			<Point>
@@ -11535,6 +12675,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAFRANCA DI VERONA</name>
 			
 			<Point>
@@ -11542,6 +12683,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAFRANCA PADOVANA</name>
 			
 			<Point>
@@ -11549,6 +12691,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAGA</name>
 			
 			<Point>
@@ -11556,6 +12699,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAMARZANA</name>
 			
 			<Point>
@@ -11563,6 +12707,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA DEL GHEBBO</name>
 			
 			<Point>
@@ -11570,6 +12715,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA DI CAMPOSAMPIERO</name>
 			
 			<Point>
@@ -11577,6 +12723,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLANOVA MARCHESANA</name>
 			
 			<Point>
@@ -11584,6 +12731,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLAVERLA</name>
 			
 			<Point>
@@ -11591,6 +12739,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VILLORBA</name>
 			
 			<Point>
@@ -11598,6 +12747,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VITTORIO VENETO</name>
 			
 			<Point>
@@ -11605,6 +12755,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VO</name>
 			
 			<Point>
@@ -11612,6 +12763,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VODO CADORE</name>
 			
 			<Point>
@@ -11619,6 +12771,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VOLPAGO DEL MONTELLO</name>
 			
 			<Point>
@@ -11626,6 +12779,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>VOLTAGO AGORDINO</name>
 			
 			<Point>
@@ -11633,6 +12787,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZANE&apos;</name>
 			
 			<Point>
@@ -11640,6 +12795,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZENSON DI PIAVE</name>
 			
 			<Point>
@@ -11647,6 +12803,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZERMEGHEDO</name>
 			
 			<Point>
@@ -11654,6 +12811,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZERO BRANCO</name>
 			
 			<Point>
@@ -11661,6 +12819,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZEVIO</name>
 			
 			<Point>
@@ -11668,6 +12827,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZIMELLA</name>
 			
 			<Point>
@@ -11675,6 +12835,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOLDO ALTO</name>
 			
 			<Point>
@@ -11682,6 +12843,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOPPE&apos; DI CADORE</name>
 			
 			<Point>
@@ -11689,6 +12851,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZOVENCEDO</name>
 			
 			<Point>
@@ -11696,6 +12859,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+<IconStyle><Icon/></IconStyle>
 			<name>ZUGLIANO</name>
 			
 			<Point>
